@@ -7,3 +7,6 @@
 
 然后做成page，供人参考与学习.
 
+<!-- - pod-env [样例demo](https://github.com/zw23534572/alpine-addons/blob/master/test/pod-env.yaml) -->
+<!-- - pod-limit [样例demo](https://github.com/zw23534572/alpine-addons/blob/master/test/pod-limit.yaml) -->
+<!-- - pod-heath-check [样例demo](https://github.com/zw23534572/alpine-addons/blob/master/test/pod-heath-check.yaml) -->
